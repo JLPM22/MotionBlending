@@ -1,0 +1,7 @@
+{
+    "name": "JLPM.MotionBlending",
+    "references": [
+		"Unity.Mathematics"
+    ],
+    "allowUnsafeCode": true
+}

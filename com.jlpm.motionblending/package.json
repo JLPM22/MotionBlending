@@ -1,0 +1,27 @@
+{
+  "name": "com.jlpm.motionblending",
+  "version": "0.0.1",
+  "displayName": "Motion Blending",
+  "description": "Motion Blending techniques for Unity",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/JLPM22/MotionBlending",
+  "changelogUrl": "https://github.com/JLPM22/MotionBlending",
+  "licensesUrl": "https://github.com/JLPM22/MotionBlending#license",
+  "keywords": [
+    "animation"
+  ],
+  "author": {
+    "name": "JLPM",
+    "url": "https://joseluisponton.com/"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "1.3.2"
+  },
+  "samples": [
+    {
+      "displayName": "Test",
+      "description": "Contains a working example to test the system in 1D",
+      "path": "Samples~/Test"
+    }
+  ]
+}
